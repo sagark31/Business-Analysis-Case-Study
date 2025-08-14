@@ -1,6 +1,6 @@
 # Business-Analysis-Case-Study
 ## Insurance Application Development: 
-DDesigned a customer-centric insurance application by digitizing processes such as policy
+Designed a customer-centric insurance application by digitizing processes such as policy
 comparison, real-time quote generation, and claims management; drafted comprehensive BRD and SRS documents to capture
 functional and non-functional requirements; conducted gap analysis to transition from manual to automated systems; and
 simulated project constraints, risks, and mitigation strategies to demonstrate expertise in efficiency improvement and project
